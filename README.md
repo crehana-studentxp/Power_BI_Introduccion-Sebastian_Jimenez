@@ -17,16 +17,19 @@
     <img src="images/project.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">IntroducciÛn a Power BI</h3>
-  <p align="center">Sebasti·n JimÈnez</h3> 
+  <h3 align="center">Introducci√≥n a Power BI</h3>
+  <p align="center">Sebasti√°n Jim√©nez</h3> 
 </div>
 
 
-### TecnologÌas usadas
+### Tecnolog√≠as usadas
  
-Desarrollar·s un sistema de recomendaciones con base en algoritmos de clustering para Machine Learning, optimizando la ingesta del modelo analizando los principales componentes de los insumos con algoritmos de reducciÛn de la dimensionalidad y procesamiento de lenguaje natural.
+Comprender√°s la importancia de aprender a leer, analizar y visualizar datos en el mundo de hoy.            
+Aprender√°s a tomar cualquier conjunto de datos y analizarlo a trav√©s de visualizaci√≥n de datos    .
+Entender√°s qu√© visualizaciones son las m√°s efectivas a la hora de representar ciertos tipos de datos.   
 
-* [Power BI VersiÛn: 2.104.941.0 64-bit (abril de 2022)](https://powerbi.microsoft.com/es-mx/)
+
+* [Power BI Versi√≥n: 2.104.941.0 64-bit (abril de 2022)](https://powerbi.microsoft.com/es-mx/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -41,4 +44,4 @@ Distribuido bajo la licencia MIT License.
 <!-- CONTACT -->
 ## Contacto
 
-øTienes comentarios sobre los archivos del curso? EnvÌanos un correo a proyectos@crehana.com<p align="right">(<a href="#top">back to top</a>)</p>
+¬øTienes comentarios sobre los archivos del curso? Env√≠anos un correo a proyectos@crehana.com<p align="right">(<a href="#top">back to top</a>)</p>
